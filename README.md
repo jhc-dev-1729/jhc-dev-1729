@@ -5,4 +5,6 @@
 - 📫 sherlock1729jhc@gmail.com
 
 ### Notification 💡
-🚀 [KnockKnock](https://knockknock.support) (Beta) launched!
+> One-Click Inquiry Management Solution
+
+🚀 [KnockKnock](https://knockknock.support) launched! Give it a try!
