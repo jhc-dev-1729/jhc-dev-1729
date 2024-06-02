@@ -16,9 +16,9 @@
 ## For Fun
 
 ### Front-end
-> A react library, [**React-Text-With-Feather-Icon**](), for front-end design
+> A react library, [**React-Text-With-Feather-Icon**](https://github.com/jhc-dev-1729/react-text-with-feather-icon), for front-end design
 >
-> <img src="https://drive.google.com/thumbnail?id=19zriShCmEic67SOlDT2kQGb4SoVTfS_z" href="https://knockknock.support"></img>
+> <img src="https://drive.google.com/thumbnail?id=19zriShCmEic67SOlDT2kQGb4SoVTfS_z"></img>
 
 ## Skills
 
