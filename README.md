@@ -3,22 +3,18 @@
 
 ## Projects
 
-### Back-end
-> One-Click Inquiry Management Solution [**KnockKnock**](https://knockknock.support)
->
+> One-Click Inquiry Management Solution **KnockKnock**
+> 
+> (Mar.2023 – Feb.2025)
+> 
 > <img src="https://drive.google.com/thumbnail?id=10ar2dFRCItGN3BwU9rDVW173ANT4hUOL" width="100"></img>
 
-### Full-Stack
-> Portable English Dictionary [**Uncle-Bob**](https://dictionary.unclebob.dev/)
+
+> Portable English Dictionary [**Uncle-Bob**](https://billowy-gallium-7b0.notion.site/Uncle-Bob-Portable-English-Dictionary-1b50cfe5076380c8bf7eddd2c66ed3e0?pvs=4)
+>
+> (May.2024 – Feb.2025)
 >
 > <img src="https://drive.google.com/thumbnail?id=1z2PddRSFbxcsdgunKbkEJsUd7K7ON3IH" width="100"></img>
-
-## For Fun
-
-### Front-end
-> A react library, [**React-Text-With-Feather-Icon**](https://github.com/jhc-dev-1729/react-text-with-feather-icon), for front-end design
->
-> <img src="https://drive.google.com/thumbnail?id=19zriShCmEic67SOlDT2kQGb4SoVTfS_z"></img>
 
 ## Skills
 
